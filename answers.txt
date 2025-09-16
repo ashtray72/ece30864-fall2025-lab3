@@ -7,3 +7,8 @@
 (c) Sprint planning meeting: Determine what tasks are being included in the sprint, determine story points and and assign stories to teams.
     Daily Scrum/Standup meeting: Discuss work completed and the work plan for the day.
     Sprint Retrospective meeting: Discuss tasks completed and move incompleted work to backlog.
+
+(d) An epic consists of a large body of work that can be broken down into smaller stories.
+    Stories express a software system requirement in a few short sentences.
+    Bugs represent a problem that needs to be fixed.
+    Tasks are work tasks that need to be done, used as a default when other issue types don't fit.
