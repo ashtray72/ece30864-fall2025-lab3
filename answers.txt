@@ -3,3 +3,7 @@
 
 (b) The scrum master manages all scrum related tasks: JIRA tooling, sprints, and meetings. While the product owner sets the team's direction 
     and handles releases and stockholders.
+
+(c) Sprint planning meeting: Determine what tasks are being included in the sprint, determine story points and and assign stories to teams.
+    Daily Scrum/Standup meeting: Discuss work completed and the work plan for the day.
+    Sprint Retrospective meeting: Discuss tasks completed and move incompleted work to backlog.
