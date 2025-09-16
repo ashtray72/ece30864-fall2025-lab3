@@ -1,1 +1,2 @@
-
+(a) Agile allows for a lot of flexibility in the software development lifecycle. It also allows for continuous customer feedback on the product.
+    This flexibility can also lead to prolonged development times and varying quality of the product during the iterative process.
